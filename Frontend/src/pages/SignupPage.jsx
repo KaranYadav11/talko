@@ -48,7 +48,7 @@ function SignupPage() {
           {/* Logo */}
           <div className="text-center mb-8">
             <div className="flex flex-col items-center gap-2 group">
-              <div className="rounded-xl lg:hidden size-[94px] bg-primary/20 flex items-center justify-center group-hover transition-colors">
+              <div className="rounded-xl lg:hidden size-[94px] bg-primary/10 flex items-center justify-center group-hover transition-colors">
                 <MessageCircle className="text-primary size-[60px]" />
               </div>
               <h1 className="text-2xl font-semibold text-primary tracking-wide font-heading mt-2">
